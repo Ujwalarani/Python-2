@@ -22,8 +22,6 @@ words = ["banana", "apple", "orange", "mango", "grape"]
 sorted_words = quick_sort(words)
 print(sorted_words)
 print()
-# Output: ['apple', 'banana', 'grape', 'mango', 'orange']
-
 
 sentence = "quick brown fox jumps over the lazy dog"
 word_list = sentence.split()
