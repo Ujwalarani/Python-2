@@ -23,7 +23,7 @@ sorted_words = quick_sort(words)
 print(sorted_words)
 print()
 
-sentence = "quick brown fox jumps over the lazy dog"
+sentence = " keep walking and be healthy"
 word_list = sentence.split()
 sorted_sentence = quick_sort(word_list)
 print(" ".join(sorted_sentence))
